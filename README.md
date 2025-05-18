@@ -2,7 +2,8 @@
 
 A React-based web application that uses AI to generate concise summaries of long articles. Features beautiful animations with Anime.js and text-to-speech functionality.
 
-![App Screenshot](./screenshot.png) *(Replace with your actual screenshot)*
+![App Screenshot](![image](https://github.com/user-attachments/assets/eddd156e-e242-41d5-bcd7-3b360269bca7)
+) 
 
 ## Features ✨
 - 📝 Generate AI-powered summaries from text input
@@ -24,4 +25,4 @@ Check out the live version: [https://your-netlify-app.netlify.app](https://your-
 ## Installation 🛠️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-summarizer.git
+   git clone [https://github.com/your-username/ai-summarizer.git](https://github.com/sidra1104/Briefly)
