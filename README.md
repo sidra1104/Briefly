@@ -25,4 +25,4 @@ Check out the live version: *Not yet hosted*
 ## Installation 🛠️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sidra1104/Briefly
+   git clone https://github.com/sidra1104/Briefly.git
