@@ -24,5 +24,24 @@ Check out the live version: *Not yet hosted*
 
 ## Installation 🛠️
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/sidra1104/Briefly.git
+
+2. Install dependencies:
+   ```
+   cd ai-summarizer
+   npm install
+
+3. Start the development server:
+   ```
+   npm start
+
+
+## Deployment 🚀
+This app is configured for easy deployment to Netlify:
+
+1. Push your code to GitHub
+2. Connect your repo to Netlify
+3. Set build command: npm run build
+4. Set publish directory: build/
+5. Deploy!
